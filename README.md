@@ -1,6 +1,11 @@
-# Multimodal Retriever-Generator Model for Visual Question Answering
+# Joint Training of Retrieval and Generation for Textbook Question Answering (JTRG-TQA)
 
-This repository implements a multimodal retrieval and generation model aimed at visual question answering (VQA). The model utilizes advanced techniques in machine learning and deep learning, including the use of state-of-the-art vision-language models and retrieval-based training.
+This repository contains the implementation for the paper **"Joint Training of Retrieval and Generation for Textbook Question Answering"** by **Hessa A. Alawwad et al.**. The work focuses on improving the **Textbook Question Answering (TQA)** task by explore the effectiveness of joint-training approaches by combining the strengths of retrieval-based and generation-based techniques to tackle the current weakness in the retrieving process and TQA challenges like "out-of-domain" problem. The approach outperforms several baseline models in the field.
+
+## Paper Link
+
+You can find the full paper here: 
+*([JTRG-TQA](TBA))*
 
 ## Used Models
 
