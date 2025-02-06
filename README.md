@@ -1,4 +1,4 @@
-# Joint Training of Retrieval and Generation for Textbook Question Answering (JTRG-TQA)
+# Multimodal Joint Training of Retrieval and Generation for Textbook Question Answering (MMJTRG)
 
 This repository contains the implementation for the paper **"Joint Training of Retrieval and Generation for Textbook Question Answering"** by **Hessa A. Alawwad et al.**. The work focuses on improving the **Textbook Question Answering (TQA)** task by explore the effectiveness of joint-training approaches by combining the strengths of retrieval-based and generation-based techniques to tackle the current weakness in the retrieving process and TQA challenges like "out-of-domain" problem. The approach outperforms several baseline models in the field.
 
